@@ -3,3 +3,4 @@ git fetch master
 git merge origin/master
 git commit -am "How to be up to date in git"
 git push origin master
+git pull
